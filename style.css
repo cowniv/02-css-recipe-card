@@ -1,0 +1,4 @@
+/* Recipe card – learning the box model, typography and colors */
+* {
+  box-sizing: border-box;
+}
