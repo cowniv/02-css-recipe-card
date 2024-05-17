@@ -2,3 +2,11 @@
 * {
   box-sizing: border-box;
 }
+
+body {
+  margin: 0;
+  padding: 40px 16px;
+  background: #f6efe6;
+  font-family: Georgia, "Times New Roman", serif;
+  color: #3b2f2a;
+}
