@@ -19,3 +19,10 @@ body {
   overflow: hidden;
   box-shadow: 0 10px 30px rgba(59, 47, 42, 0.15);
 }
+
+.card img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  display: block;
+}
