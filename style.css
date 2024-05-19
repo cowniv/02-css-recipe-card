@@ -26,3 +26,7 @@ body {
   object-fit: cover;
   display: block;
 }
+
+.card-body {
+  padding: 28px 32px 36px;
+}
