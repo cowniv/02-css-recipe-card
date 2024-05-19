@@ -30,3 +30,15 @@ body {
 .card-body {
   padding: 28px 32px 36px;
 }
+
+.tag {
+  display: inline-block;
+  background: #a86b4c;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  padding: 4px 10px;
+  border-radius: 999px;
+}
