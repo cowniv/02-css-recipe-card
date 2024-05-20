@@ -47,3 +47,11 @@ h1 {
   margin: 12px 0 8px;
   font-size: 36px;
 }
+
+h2 {
+  margin-top: 28px;
+  font-size: 20px;
+  color: #a86b4c;
+  border-bottom: 2px solid #f0e2d4;
+  padding-bottom: 6px;
+}
