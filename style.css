@@ -60,3 +60,13 @@ h2 {
   color: #6e5d55;
   line-height: 1.6;
 }
+
+.meta {
+  list-style: none;
+  padding: 16px;
+  margin: 20px 0 0;
+  background: #fbf6f1;
+  border-radius: 10px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
