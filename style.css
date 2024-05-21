@@ -70,3 +70,15 @@ h2 {
   font-family: Arial, sans-serif;
   font-size: 14px;
 }
+
+.meta li {
+  display: inline-block;
+  margin-right: 24px;
+}
+
+.meta strong {
+  display: block;
+  color: #a86b4c;
+  font-size: 12px;
+  text-transform: uppercase;
+}
