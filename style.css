@@ -82,3 +82,14 @@ h2 {
   font-size: 12px;
   text-transform: uppercase;
 }
+
+.ingredients li,
+.steps li {
+  line-height: 1.7;
+  margin-bottom: 6px;
+}
+
+.steps li::marker {
+  color: #a86b4c;
+  font-weight: bold;
+}
